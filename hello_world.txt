@@ -1,1 +1,3 @@
 this better work, but this is confusing
+this is a new test
+and a new line as well
